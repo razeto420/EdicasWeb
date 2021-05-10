@@ -10,14 +10,13 @@
                         <div class="col-xl-9 col-lg-10 mx-auto">
                             <div class="bg-faded rounded p-5">
                                 <h2 class="section-heading mb-4">
-                                    <span class="section-heading-upper">Strong Coffee, Strong Roots</span>
-                                    <span class="section-heading-lower">About Our Cafe</span>
+                                    <span class="section-heading-upper">Precios bajos siempre.</span>
+                                    <span class="section-heading-lower">Productos de calidad y la mejor atencion.</span>
                                 </h2>
-                                <p>Founded in 1987 by the Hernandez brothers, our establishment has been serving up rich coffee sourced from artisan farmers in various regions of South and Central America. We are dedicated to travelling the world, finding the best coffee, and bringing back to you here in our cafe.</p>
+                                <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                 <p class="mb-0">
-                                    We guarantee that you will fall in
+                           
                                     <em>lust</em>
-                                    with our decadent blends the moment you walk inside until you finish your last sip. Join us for your daily routine, an outing with friends, or simply just to enjoy some alone time.
                                 </p>
                             </div>
                         </div>
